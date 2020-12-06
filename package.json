@@ -3,21 +3,7 @@
   "version": "3.1.0",
   "description": "simple node sql parser",
   "main": "index.js",
-  "types": "index.d.ts",
   "scripts": {},
-  "files": [
-    "ast/",
-    "build",
-    "lib",
-    "index.js",
-    "index.d.ts",
-    "index.js.map",
-    "umd/",
-    "README.md",
-    "package.json",
-    "types.d.ts",
-    "LICENSE"
-  ],
   "engines": {
     "node": ">=8"
   },

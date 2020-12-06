@@ -1,3 +1,5 @@
+console.log(123)
+
 import Parser from './src/parser'
 import * as util from './src/util'
 
